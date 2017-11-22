@@ -1,4 +1,4 @@
-# -*- coding: utf-8 -*-
+#-*-coding:utf-8-*-
 
 import LINETCR
 from LINETCR.lib.curve.ttypes import *
